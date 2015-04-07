@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/adam-back/Tessel/issues"
   },
-  "homepage": "https://github.com/adam-back/Tessel"
+  "homepage": "https://github.com/adam-back/Tessel",
+  "dependencies": {
+    "tessel": "^0.3.22"
+  }
 }
