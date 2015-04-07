@@ -1,0 +1,22 @@
+{
+  "name": "Tessel",
+  "version": "1.0.0",
+  "description": "Play with Tessel 1/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam-back/Tessel.git"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "Adam Back",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-back/Tessel/issues"
+  },
+  "homepage": "https://github.com/adam-back/Tessel"
+}
