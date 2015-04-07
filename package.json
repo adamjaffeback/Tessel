@@ -21,6 +21,7 @@
   "homepage": "https://github.com/adam-back/Tessel",
   "dependencies": {
     "ambient-attx4": "^0.2.5",
+    "camera-vc0706": "^0.1.8",
     "relay-mono": "^0.1.2",
     "tessel": "^0.3.22"
   }
